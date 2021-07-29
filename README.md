@@ -1,2 +1,2 @@
-# perdidas_gestacionales_viz
-Viz personalizada de datawrapper para especial de pérdidas gestacionales
+# Pérdidas gestacionales - Custom bar chart
+Visualización personalizada para observar la data de presupeusto en salud y salud materna en diferentes países.
